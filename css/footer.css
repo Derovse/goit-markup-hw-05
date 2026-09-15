@@ -61,7 +61,6 @@
   background-color: #31d0aa;
 }
 
-/* Форма подписки Subscribe */
 .footer-subscribe {
   margin-left: auto;
 }
@@ -88,7 +87,6 @@
   background-color: transparent;
   padding-left: 16px;
   font-size: 12px;
-  /* ИСПРАВЛЕНО: line-height теперь 1.17 */
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #ffffff;
